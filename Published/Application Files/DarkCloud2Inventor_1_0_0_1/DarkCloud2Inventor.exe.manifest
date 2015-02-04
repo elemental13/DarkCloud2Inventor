@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="DarkCloud2Inventor.exe" version="1.0.0.1" publicKeyToken="34c285b989deb73c" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Battle_Wrench.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DarkCloud2Inventor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DarkCloud2Inventor.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DarkCloud2Inventor.exe" size="3696640">
+      <assemblyIdentity name="DarkCloud2Inventor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vaVyt9uz8FuF7eulE53f2l1eUJ4wXmJWkelX48oRWrc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Battle_Wrench.ico" size="137242">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bQcbsXqx3Z43fuKQPjLAqJFQ/fw87cZftIt7piuFus8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="darkcloud2.mdf" size="3211264" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>O8LOiHjAa3IT6BkqvD5lJGIzXmNaSwotJw0V4pzmCN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="darkcloud2_log.ldf" size="802816" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>J8/qc06YqlMgWVIKa06KeRYWXybfmgXlBXWSnQITe5A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="DarkCloud2Inventor.exe.config" size="849">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hgBN19LMhK/Daf3YlgQAIl1g5xAGWOPNmwgF2ecE/LY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\yougotcamera.PNG" size="468543">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yCu5u56E3B5uJdWwK6F8dFHWzYavoljaVg+YYdPypjU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MSOE\ramirezb" issuerKeyHash="e73d4e29d1be98a5c72de6c4df1cb20df6e6d085" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+bKU+ttMau7gNWtY3d7H4+n+F8xD5nKCJWjMx41ZmQE=</DigestValue></Reference></SignedInfo><SignatureValue>daWUUOmNV9nz/blxT3sqIo+fF5/LvVQpUsLrv2yPlQu+ObyAFcpRwjGF0TF8B658F49d+lTL25q83lmuV4QaSrkIsdKSZpjv3CeK50hLNOfa4Fp85cN0HgnlYQ+fTkD/OipS1Wq8XbnIWRFXCghibViuPYv0xuYfLBCXvZMZ3Y4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zPHImwBtx40kE4/z6pfdEcQEY07Gra/FoDIGCjuNEVOzPVcccq7ZA83CkVQQjyWB4mwSmrSbNG6KShvWzeUfvqe3Qmn0uP2BO2GJ3qPLFxIGnG6MlqchBejpLi9969Su8TRl5K4Ri0l0aRJs0c29qjbECQu2sdL19XIe/8KKqs8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0199598dc7cc68258272e643cc17fee9e3c7dedd586b35e0ee6a4cdbfa94b2f9" Description="" Url=""><as:assemblyIdentity name="DarkCloud2Inventor.exe" version="1.0.0.1" publicKeyToken="34c285b989deb73c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MSOE\ramirezb</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>huuSbNctuks5pExs73P8Qv6dUwPgzRkM2XvNz2N22gA=</DigestValue></Reference></SignedInfo><SignatureValue>e/65IK2P1wVyliW70rnW+g/bQqkWBu6BYsu71yLPcMm+dYjXciaEeJkUV/fa5431FarjHAaPtUyegOMLEZ55pIc6ylqf2yOXN2e56VEFcu+mPLS2bVvZt5iBCi9R9n99UgINxaOYm4+vq0gyooISQ2PzIzbDiVrJALuJL97kYuU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zPHImwBtx40kE4/z6pfdEcQEY07Gra/FoDIGCjuNEVOzPVcccq7ZA83CkVQQjyWB4mwSmrSbNG6KShvWzeUfvqe3Qmn0uP2BO2GJ3qPLFxIGnG6MlqchBejpLi9969Su8TRl5K4Ri0l0aRJs0c29qjbECQu2sdL19XIe/8KKqs8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQGp0u0SeY+IRB/0S5pjJNujANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoATQBTAE8ARQBcAHIAYQBtAGkAcgBlAHoAYjAeFw0xNDAxMjIxODUxMTZaFw0xNTAxMjMwMDUxMTZaMCUxIzAhBgNVBAMeGgBNAFMATwBFAFwAcgBhAG0AaQByAGUAegBiMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDM8cibAG3HjSQTj/Pql90RxARjTsatr8WgMgYKO40RU7M9VxxyrtkDzcKRVBCPJYHibBKatJs0bopKG9bN5R++p7dCafS4/YE7YYneo8sXEgacboyWpyEF6OkuL33r1K7xNGXkrhGLSXRpEmzRzb2qNsQJC7ax0vX1ch7/woqqzwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAEKp21/4kayRzJeCL9PrFc+o+iBBBgPFwxpRVff78vEsRrvRmOruRoYDOXdIELXXpQys0105otbPos6NzFjLJ/L7ZHKI0yl3Q5o7Z/28MVbn7zxgVyEaNYcMI34MU1+HjWcfP1TiM6WmbJxdgeLKFM9CKTkHSpTe2TVAnMtFBaLM</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

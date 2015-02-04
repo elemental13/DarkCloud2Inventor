@@ -1,0 +1,15 @@
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\bin\Release\darkcloud2.mdf
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\bin\Release\darkcloud2_log.ldf
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\bin\Release\DarkCloud2Inventor.exe.config
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\bin\Release\DarkCloud2Inventor.exe.manifest
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\bin\Release\DarkCloud2Inventor.application
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\bin\Release\DarkCloud2Inventor.exe
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\bin\Release\DarkCloud2Inventor.pdb
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Release\DarkCloud2Inventor.LogIn.resources
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Release\DarkCloud2Inventor.MainScreen.resources
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Release\DarkCloud2Inventor.Properties.Resources.resources
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Release\DarkCloud2Inventor.csproj.GenerateResource.Cache
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Release\DarkCloud2Inventor.exe.manifest
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Release\DarkCloud2Inventor.application
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Release\DarkCloud2Inventor.exe
+d:\mydocs\documents\visual studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Release\DarkCloud2Inventor.pdb
