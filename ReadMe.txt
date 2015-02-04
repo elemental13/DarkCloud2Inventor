@@ -1,4 +1,6 @@
-Hi Tumey :D
+Hi DarkCloud 2 Fans :D
+
+The idea of this program is to be a companion app for Dark Cloud 2 pictures and memos.  This should help you find what you want to invent, where the pictures are, how much the invention will cost you, materials needed, etc.
 
 Currently, this program can hold a list of pictures for a user.  Then, you may view the pictures by clicking on gallery and then clicking on a list item that pops up.  You can right click on the picture to delete it, or click on it to view the information.  Then, you can log out. 
 
@@ -13,4 +15,4 @@ Just go ahead to the published folder and run the setup file to install the appl
 
 
 Warm Regards,
-Brandon Ramirez
+Brandon
