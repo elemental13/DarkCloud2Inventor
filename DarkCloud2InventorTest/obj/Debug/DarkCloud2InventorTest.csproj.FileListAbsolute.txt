@@ -1,0 +1,5 @@
+D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2InventorTest\bin\Debug\DarkCloud2InventorTest.dll
+D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2InventorTest\bin\Debug\DarkCloud2InventorTest.pdb
+D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2InventorTest\obj\Debug\DarkCloud2InventorTest.csprojResolveAssemblyReference.cache
+D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2InventorTest\obj\Debug\DarkCloud2InventorTest.dll
+D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2InventorTest\obj\Debug\DarkCloud2InventorTest.pdb
