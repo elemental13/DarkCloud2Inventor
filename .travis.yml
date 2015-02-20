@@ -6,3 +6,19 @@ install:
 script:
   - xbuild DarkCloud2Inventor.sln
   - nunit-console DarkCloud2InventorTest/bin/Debug/DarkCloud2InventorTest.dll
+
+env:
+  global:
+   # The next declaration is the encrypted COVERITY_SCAN_TOKEN, created
+   #   via the "travis encrypt" command using the project repo's public key
+   - secure: "K1Xopi/kS/EFJ4k3UJB7yvas/R8aeru842fX5uE1P+ApA/y9Ly/9oGagHOJ5pgwtqfYbmBepe49kdJT8TLrWKp1rlimHkPB6abxhUScMehHF3No857tSoS4afsybZejPm0mJyUN0KUNgtdre8QobCvtmlWWhL4jghR9KyHRLWzw="
+
+addons:
+  coverity_scan:
+    project:
+      name: "elemental13/DarkCloud2Inventor"
+      description: "Build submitted via Travis CI"
+    notification_email: ramirezb@msoe.edu
+    build_command_prepend: "msbuild /t:Clean"
+    build_command:   "msbuild /t:Rebuild"
+    branch_pattern: coverity_scan
