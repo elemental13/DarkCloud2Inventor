@@ -7,6 +7,7 @@ D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inv
 D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\bin\Debug\DarkCloud2Inventor.pdb
 D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\bin\Debug\nunit.framework.dll
 D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\bin\Debug\nunit.framework.xml
+D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Debug\DarkCloud2Inventor.csprojResolveAssemblyReference.cache
 D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Debug\DarkCloud2Inventor.LogIn.resources
 D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Debug\DarkCloud2Inventor.MainScreen.resources
 D:\MyDocs\Documents\Visual Studio 2013\Projects\DarkCloud2Inventor\DarkCloud2Inventor\obj\Debug\DarkCloud2Inventor.Properties.Resources.resources

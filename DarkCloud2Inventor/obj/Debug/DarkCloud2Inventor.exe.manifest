@@ -70,19 +70,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4erB5s5+q7NuSuVtg7GdSN3M3lciamQLRuIAhpv4CzQ=</dsig:DigestValue>
+        <dsig:DigestValue>WoqUaMa3QCZjuwn3d/IoC2QQdrShJpyCvvkCg/mvpBo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="nunit.framework.dll" size="151552">
-      <assemblyIdentity name="nunit.framework" version="2.6.4.14350" publicKeyToken="96D09A1EB7F44A77" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="nunit.framework" version="2.6.3.13283" publicKeyToken="96D09A1EB7F44A77" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OanVC2/s0d7G8S2/JgI6ZUTgugGM/cAbViXbauHy8fk=</dsig:DigestValue>
+        <dsig:DigestValue>VRlfIenIqC0imd9LPaazv1EeQTfkO4xGsd11Zl+Ncg0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
