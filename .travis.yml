@@ -1,7 +1,9 @@
-﻿language: c
-
-install:
-  - sudo apt-get install mono-devel mono-gmcs nunit-console
+﻿language: csharp
 script:
-  - xbuild DarkCloud2Inventor.sln
+  - xbuild /p:Configuration=Debug DarkCloud2Inventor.sln
+before_install:
+  - sudo apt-get install nunit-console
+before_script:
+  - nuget restore DarkCloud2Inventor.sln
+after_script:
   - nunit-console DarkCloud2InventorTest/bin/Debug/DarkCloud2InventorTest.dll
