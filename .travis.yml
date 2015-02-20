@@ -1,8 +1,7 @@
-﻿language: csharp
-solution: DarkCloud2Inventor.sln
+﻿language: c
+
 install:
-  - nuget DarkCloud2Inventor.sln
-  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+  - sudo apt-get install mono-devel mono-gmcs nunit-console
 script:
-  - xbuild /p:Configuration=Debug DarkCloud2Inventor.sln
-  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./DarkCloud2InventorTest/bin/Debug/DarkCloud2InventorTest.dll
+  - xbuild DarkCloud2Inventor/DarkCloud2Inventor.sln
+  - nunit-console DarkCloud2InventorTest/bin/Debug/DarkCloud2InventorTest.dll
