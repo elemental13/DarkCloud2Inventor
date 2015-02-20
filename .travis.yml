@@ -3,5 +3,5 @@
 install:
   - sudo apt-get install mono-devel mono-gmcs nunit-console
 script:
-  - xbuild DarkCloud2Inventor/DarkCloud2Inventor.sln
+  - xbuild DarkCloud2Inventor.sln
   - nunit-console DarkCloud2InventorTest/bin/Debug/DarkCloud2InventorTest.dll
