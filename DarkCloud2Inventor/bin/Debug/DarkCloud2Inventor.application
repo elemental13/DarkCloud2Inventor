@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="DarkCloud2Inventor.exe.manifest" size="5275">
+    <dependentAssembly dependencyType="install" codebase="DarkCloud2Inventor.exe.manifest" size="7153">
       <assemblyIdentity name="DarkCloud2Inventor.exe" version="1.0.0.5" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jc9g2ZcfUvQAteTKJUp/JG1tF1CR/U6SNbi0cfh2bo0=</dsig:DigestValue>
+        <dsig:DigestValue>PE+FD3bkpUVRILI2okAW3t87gI1V6HaZpQVy7TIauVQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

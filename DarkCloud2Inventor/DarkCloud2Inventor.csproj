@@ -190,7 +190,6 @@
     <None Include="Resources\clownrobosattack.PNG" />
     <None Include="Resources\parasol.PNG" />
     <None Include="Resources\clownshoes.PNG" />
-    <None Include="travis.yml" />
     <Content Include="yougotcamera2.ico" />
     <None Include="Resources\brownbg.jpg" />
     <None Include="Resources\woodbg.jpg" />
