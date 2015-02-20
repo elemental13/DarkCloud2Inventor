@@ -3,7 +3,5 @@ script:
   - xbuild /p:Configuration=Debug DarkCloud2Inventor.sln
 before_install:
   - sudo apt-get install nunit-console
-before_script:
-  - nuget restore DarkCloud2Inventor.sln
 after_script:
   - nunit-console DarkCloud2InventorTest/bin/Debug/DarkCloud2InventorTest.dll
